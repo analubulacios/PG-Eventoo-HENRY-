@@ -1,3 +1,3 @@
 # PG-Eventoo
 
-Proyecto grupal para Henry en desarrollo
+Final project required to receive Full Stack Web Developer certification (HENRY)
